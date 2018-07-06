@@ -1,0 +1,5 @@
+.soliumignore 
+.soliumrc.json  
+/.embark
+.gitignore
+/node_modules
